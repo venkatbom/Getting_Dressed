@@ -1,0 +1,20 @@
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed\bin\Debug\GettingDressed.exe.config
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed\bin\Debug\GettingDressed.exe
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed\bin\Debug\GettingDressed.pdb
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed\bin\Debug\GettingDressed.Library.dll
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed\bin\Debug\Ninject.dll
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed\bin\Debug\GettingDressed.Library.pdb
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed\bin\Debug\Ninject.xml
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed\obj\Debug\GettingDressed.csprojResolveAssemblyReference.cache
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed\obj\Debug\GettingDressed.exe
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed\obj\Debug\GettingDressed.pdb
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed\bin\Debug\GettingDressed.exe.config
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed\obj\Debug\GettingDressed.exe
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed\obj\Debug\GettingDressed.pdb
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed\bin\Debug\GettingDressed.exe
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed\bin\Debug\GettingDressed.pdb
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed\bin\Debug\GettingDressed.Library.dll
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed\bin\Debug\Ninject.dll
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed\bin\Debug\GettingDressed.Library.pdb
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed\bin\Debug\Ninject.xml
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed\obj\Debug\GettingDressed.csprojResolveAssemblyReference.cache

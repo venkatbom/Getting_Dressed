@@ -1,0 +1,14 @@
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed.UnitTest\bin\Debug\GettingDressed.UnitTest.dll
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed.UnitTest\bin\Debug\GettingDressed.UnitTest.pdb
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed.UnitTest\obj\Debug\GettingDressed.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed.UnitTest\obj\Debug\GettingDressed.UnitTest.dll
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed.UnitTest\obj\Debug\GettingDressed.UnitTest.pdb
+C:\Users\Vamsi\Documents\Visual Studio 2015\Projects\GettingDressed\GettingDressed.UnitTest\bin\Debug\GettingDressed.Library.dll
+C:\Users\Vamsi\Documents\Visual Studio 2015\Projects\GettingDressed\GettingDressed.UnitTest\bin\Debug\GettingDressed.Library.pdb
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed.UnitTest\bin\Debug\GettingDressed.UnitTest.dll
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed.UnitTest\bin\Debug\GettingDressed.UnitTest.pdb
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed.UnitTest\bin\Debug\GettingDressed.Library.dll
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed.UnitTest\bin\Debug\GettingDressed.Library.pdb
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed.UnitTest\obj\Debug\GettingDressed.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed.UnitTest\obj\Debug\GettingDressed.UnitTest.dll
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed.UnitTest\obj\Debug\GettingDressed.UnitTest.pdb

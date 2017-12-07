@@ -1,0 +1,10 @@
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed.Library\bin\Debug\GettingDressed.Library.dll
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed.Library\bin\Debug\GettingDressed.Library.pdb
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed.Library\obj\Debug\GettingDressed.Library.dll
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed.Library\obj\Debug\GettingDressed.Library.pdb
+C:\Users\Vamsi\documents\visual studio 2015\Projects\GettingDressed\GettingDressed.Library\obj\Debug\GettingDressed.Library.csprojResolveAssemblyReference.cache
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed.Library\obj\Debug\GettingDressed.Library.csprojResolveAssemblyReference.cache
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed.Library\obj\Debug\GettingDressed.Library.dll
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed.Library\bin\Debug\GettingDressed.Library.dll
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed.Library\bin\Debug\GettingDressed.Library.pdb
+C:\Users\apoor\Desktop\GettingDressed\GettingDressed.Library\obj\Debug\GettingDressed.Library.pdb
